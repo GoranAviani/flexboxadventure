@@ -105,6 +105,16 @@ flex-direction: column-reverse;
 justify-content: flex-end;
 }
 
+#field {
+    display: flex;
+    justify-content: center;
+}
+
+#arthur {
+order: 2;
+align-self: center
+}
+
 
 
 
