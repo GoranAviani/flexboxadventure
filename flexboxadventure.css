@@ -116,7 +116,10 @@ align-self: center
 }
 
 
-
+#field {
+    display: flex;
+flex-wrap: wrap
+}
 
 
 
