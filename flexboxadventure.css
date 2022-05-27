@@ -40,7 +40,11 @@ justify-content: center;
 align-items: center;
 }
 
-
+#field {
+    display: flex;
+justify-content: space-between;
+align-items: flex-end
+}
 
 
 
