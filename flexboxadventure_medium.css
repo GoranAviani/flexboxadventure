@@ -63,7 +63,10 @@ flex-direction: column;
 }
 
 
-
+#field {
+    display: flex;
+flex-direction: row-reverse;
+}
 
 
 
