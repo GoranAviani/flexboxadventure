@@ -28,7 +28,10 @@ justify-content: space-evenly;
 }
 
 
-
+#field {
+    display: flex;
+align-items: center;
+}
 
 
 
