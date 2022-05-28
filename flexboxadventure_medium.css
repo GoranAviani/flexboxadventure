@@ -22,7 +22,10 @@ justify-content: space-around
 }
 
 
-
+#field {
+    display: flex;
+justify-content: space-evenly;
+}
 
 
 
