@@ -143,9 +143,24 @@ justify-content: space-around;
 align-items: flex-end;
 }
 
+#field {
+    display: flex;
+flex-direction: column-reverse;
+flex-wrap: wrap-reverse;
+align-content: center;
+justify-content: center;
+}
 
 
 
+#field {
+    display: flex;
+}
+
+#arthur {
+align-self: center;
+order: 3;
+}
 
 
 
