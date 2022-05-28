@@ -112,8 +112,12 @@ align-self: flex-end
 
 
 
-
-
+#field {
+    display: flex;
+flex-direction: column-reverse;
+align-items: center;
+justify-content: start;
+}
 
 
 
